@@ -1,8 +1,8 @@
 /** 
  * ===========================================================
- * Name: 
- * Section: 
- * Project: 
+ * Name: Lucas Briggs
+ * Section: T4 Crowl
+ * Project: QuickSort
  * ===========================================================
  * Instructions:
  *    1) Complete TASKS Below
@@ -18,7 +18,7 @@ int main() {
     // set up for and then seed random number
     // generator
     srand((unsigned)(time(NULL)));  // use for development/debugging
-    //srand(2023); // uncomment for submission
+    srand(2023); // uncomment for submission
     
     /* TASK 0 - implement the function, quickSort() below
      * Help - the partition prototype is given to you above
